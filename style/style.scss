@@ -1,0 +1,59 @@
+.showButtons   {
+
+	a {
+	   margin-left: 5px;
+	   margin-top: 20px;
+	}
+	button {
+	   margin-top: 20px;
+	   margin-left:5px;
+	}
+
+}
+
+.has-danger {
+	color: red;
+}
+
+
+footer {
+	margin-top: 200px;
+}
+
+header {
+	margin-bottom: 50px;
+	h1 {
+		color: green;
+	}
+	
+}
+.board {
+
+  background-color: antiquewhite;
+  width:  800px;
+  height: 400px;
+  position:absolute;
+  top: 50px;
+  button {
+    position:relative;
+    top:500px;
+  }
+  h3 {
+    position:absolute;
+    top:-25px;
+  }
+}
+.tile {
+  width: 10px;
+  height: 10px;
+
+  border: 0.5px solid rgba(64, 63, 13, 0.86);
+  position: absolute;
+
+}
+.alive {
+ background-color:darkred;
+}
+.dead {
+  background-color: black;
+}
