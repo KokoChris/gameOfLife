@@ -123,7 +123,7 @@ export default class Board extends Component {
         }
     }
     toggle(tile) {
-        //this needs major refactoring because we are basically mutating state before setting it
+        //this needsrefactoring because we are basically mutating state before setting it
         if (tile.deadOrAlive) {
             tile.deadOrAlive = 0;
             this.setState(tile);

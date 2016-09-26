@@ -60,13 +60,36 @@
       <file leaf-file-name="board.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/board.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+            <state relative-caret-position="225">
+              <caret line="125" column="20" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#3591#4333#0" expanded="false" />
-                <element signature="e#4362#4496#0" expanded="false" />
+                <element signature="e#136#733#0" expanded="false" />
+                <element signature="e#758#869#0" expanded="false" />
+                <element signature="e#897#939#0" expanded="false" />
+                <element signature="e#957#1076#0" expanded="false" />
+                <element signature="e#987#1069#0" expanded="false" />
+                <element signature="e#1094#1163#0" expanded="false" />
+                <element signature="e#1182#1296#0" expanded="false" />
+                <element signature="e#1308#1349#0" expanded="false" />
+                <element signature="e#1382#2053#0" expanded="false" />
+                <element signature="e#2090#2783#0" expanded="false" />
+                <element signature="e#2850#3241#0" expanded="false" />
+                <element signature="e#3584#4326#0" expanded="false" />
+                <element signature="e#4355#4489#0" expanded="false" />
+                <element signature="e#4511#5289#0" expanded="false" />
+                <element signature="e#5303#5701#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -287,20 +310,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474656074196</updated>
-      <workItem from="1474656075946" duration="48042000" />
+      <workItem from="1474656075946" duration="49375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48042000" />
+    <option name="totallyTimeSpent" value="49375000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
     <todo-panel id="all">
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
@@ -339,7 +363,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -432,14 +456,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/board.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="125" column="20" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#3591#4333#0" expanded="false" />
-            <element signature="e#4362#4496#0" expanded="false" />
+            <element signature="e#136#733#0" expanded="false" />
+            <element signature="e#758#869#0" expanded="false" />
+            <element signature="e#897#939#0" expanded="false" />
+            <element signature="e#957#1076#0" expanded="false" />
+            <element signature="e#987#1069#0" expanded="false" />
+            <element signature="e#1094#1163#0" expanded="false" />
+            <element signature="e#1182#1296#0" expanded="false" />
+            <element signature="e#1308#1349#0" expanded="false" />
+            <element signature="e#1382#2053#0" expanded="false" />
+            <element signature="e#2090#2783#0" expanded="false" />
+            <element signature="e#2850#3241#0" expanded="false" />
+            <element signature="e#3584#4326#0" expanded="false" />
+            <element signature="e#4355#4489#0" expanded="false" />
+            <element signature="e#4511#5289#0" expanded="false" />
+            <element signature="e#5303#5701#0" expanded="false" />
           </folding>
         </state>
       </provider>
