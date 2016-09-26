@@ -8,7 +8,7 @@ export default class App extends Component {
       <div className="container">
           <Board />
 
-
+          <a href="https://github.com/KokoChris/gameOfLife">Github</a>
       </div>
 
     );
